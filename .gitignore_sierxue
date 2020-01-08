@@ -18,3 +18,5 @@
 *.swo
 *.fdb_latexmk
 *.fls
+*.synctex*
+*.xdv
